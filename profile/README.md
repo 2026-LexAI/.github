@@ -1,1 +1,1 @@
-LexAI
+![LexAI poster](lexai.png)
